@@ -12,7 +12,7 @@ const manifest = {
     credits: [
         {
             name: 'NeuronPulse',
-            link: 'https://github.com/NeuronPulse'
+            link: 'https://github.com/NeuronPulse/tw-comment-markdown-editor/'
         }
     ],
     userstyles: [
